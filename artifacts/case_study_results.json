@@ -1,0 +1,42 @@
+{
+  "rows": [
+    {
+      "family": "F1 one-step",
+      "instantiations": 12,
+      "reduction_ok": 10,
+      "reduction_fail": 2,
+      "correct_candidates_accepted": 10,
+      "wrong_candidates_rejected": 20,
+      "unverifiable_candidates": 6
+    },
+    {
+      "family": "F2 two-step",
+      "instantiations": 12,
+      "reduction_ok": 10,
+      "reduction_fail": 2,
+      "correct_candidates_accepted": 10,
+      "wrong_candidates_rejected": 20,
+      "unverifiable_candidates": 6
+    },
+    {
+      "family": "F3 rate/ratio",
+      "instantiations": 12,
+      "reduction_ok": 10,
+      "reduction_fail": 2,
+      "correct_candidates_accepted": 10,
+      "wrong_candidates_rejected": 20,
+      "unverifiable_candidates": 6
+    }
+  ],
+  "totals": {
+    "instantiations": 36,
+    "reduction_ok": 30,
+    "reduction_fail": 6,
+    "correct_candidates_accepted": 30,
+    "wrong_candidates_rejected": 60,
+    "unverifiable_candidates": 18,
+    "family": "TOTAL"
+  },
+  "verifiability_rate": 0.8333333333333334,
+  "kernel_accuracy": 1.0
+}
